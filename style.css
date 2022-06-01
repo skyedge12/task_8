@@ -1,0 +1,22 @@
+.game-card {
+    height: 70vh;
+    font-family: 'Open Sans', monospace;
+    font-size: 30px;
+    }
+
+#btnLess {
+    background-color: rgb(114, 181, 245);
+}
+
+#btnOver {
+    background-color: rgb(250, 120, 68);
+}
+
+#btnRetry {
+    background-color: chocolate;
+    color: aliceblue;
+}
+
+.container {
+    width: 2000px;
+}
